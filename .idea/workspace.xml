@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60e2eb45-08d8-419d-a254-2bc48b4774f3" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/iDent/migrations/0010_pictures_alter_icons_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iDent/migrations/0011_link_remove_main_text_remove_pictures_text_and_more.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iDent/migrations/0012_splitted_alter_category_title_alter_company_title_and_more.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iDent/migrations/0013_footer_alter_splitted_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/1574605277_13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/1574605277_13_4BoHNmi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/1574605277_13_CJw9dY1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/428260.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/428260_fX7EBKZ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/Og14_044_Page_1_Image_0001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/apps.40340.13844868329507759.07372d86-a484-4a8f-a924-abf609635a3e_large.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/apps.40340.13844868329507759.07372d86-a484-4a8f-a924-abf609635a3e_large_xRQdRii.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/background-02-1920x800-642x300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/black-tel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/flag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/footer-map.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/footer-map_BB1QvcE.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/footer-tel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/footer-tel_8gTTWiK.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/heart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/hirurgia2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/hqdefault.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/multfilmy-shrek-zuby-ushi-ulybka-osel-764659.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/settings.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/sheikh-zayed-grand-mosque-abu-6890_p0VfHZ2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/stomatologicheskaya_ystanovka.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/terapevticheskaya-stomatologiya.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/Новости/51.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/Новости/dental-e1491920184799.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/панда_5YwhP4a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/панда_EzandIE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/панда_YYSK3zJ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/панда_hBB8rpn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/панда_lK308k5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_lesson7" beforeDir="false" afterPath="$PROJECT_DIR$/../python_lesson7" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="263euWvBlWOKzCu2Ap3wYIClLda" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\djangoProject" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\djangoProject" />
+      <recent name="C:\Users\User\PycharmProjects\djangoProject\iDent" />
+      <recent name="C:\Users\User\PycharmProjects\djangoProject\templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="djangoProject" type="Python.DjangoServer" factoryName="Django server">
+      <module name="djangoProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="djangoProject.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60e2eb45-08d8-419d-a254-2bc48b4774f3" name="Changes" comment="" />
+      <created>1646656919565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646656919565</updated>
+      <workItem from="1646656930852" duration="529000" />
+      <workItem from="1646657575089" duration="13000" />
+      <workItem from="1646729527054" duration="17361000" />
+      <workItem from="1647073242073" duration="932000" />
+      <workItem from="1647074493683" duration="1483000" />
+      <workItem from="1647081083291" duration="1742000" />
+      <workItem from="1647083171760" duration="129000" />
+      <workItem from="1647083331522" duration="3441000" />
+      <workItem from="1647093168127" duration="345000" />
+      <workItem from="1647093530090" duration="80000" />
+      <workItem from="1647093660547" duration="6309000" />
+      <workItem from="1647349964416" duration="4814000" />
+      <workItem from="1647356936915" duration="6258000" />
+      <workItem from="1647538798013" duration="15392000" />
+      <workItem from="1647692560205" duration="7965000" />
+      <workItem from="1647701008884" duration="14960000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1647878098513</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647878098513</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+</project>
