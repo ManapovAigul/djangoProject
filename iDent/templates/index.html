@@ -1,0 +1,147 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="swiper intro-swiper">
+        <div class="swiper-wrapper">
+            {% for i in name %}
+                <div class="swiper-slide" style="background-image:url('{{ i.image.url }}')">
+                    <div class="container">
+                        <h2 class="intro-title">{{ i.title }}</h2>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+        <div class="container intro-navigation">
+            <div class="swiper-pagination intro-pagination"></div>
+            <div class="intro-btns">
+                <div class="swiper-button-prev intro-btn intro-btn-prev"></div>
+                <div class="swiper-button-next intro-btn intro-btn-next"></div>
+            </div>
+        </div>
+    </div>
+    <section class="first-block">
+        <div class="decor"></div>
+        <div class="container">
+            <div class="inner">
+                {% for i in banner %}
+                <div><img src="{{ i.image.url }}" alt=""></div>
+                <div class="right">
+                    <h3 class="title">{{ i.title }}</h3>
+                    <p class="description">
+                        {{ i.text }}
+                    </p>
+                </div>
+                {% endfor %}
+            </div>
+
+        </div>
+    </section>
+
+    <div class="swiper swiper2">
+        <div class="swiper-wrapper">
+            {% for i in swipers %}
+                <div class="swiper-slide" style="background-image: url('{{ i.image.url }}')">
+                    <div class="container">
+                        <div class="inner">
+                            <h3 class="title">{{ i.title }}</h3>
+                            <p class="desc">{{ i.text }}</p>
+                            <a href="{{ i.url }}" class="link">Подробнее</a>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+        <div class="swiper-button-prev swiper2-btn swiper2-prev"></div>
+        <div class="swiper-button-next swiper2-btn swiper2-next"></div>
+    </div>
+
+    <section class="news">
+        <div class="container">
+            <h2 class="title">Новости</h2>
+            <div class="news-grid">
+                {% for i in new %}
+                    <div class="news-item">
+                        <img src="{{ i.image.url }}" alt="">
+                        <div class="info">
+                            <time class="date">{{ i.date.date }}</time>
+                            <h3 class="title">{{ i.title }}</h3>
+                            <p class="desc">{{ i.description }}</p>
+                        </div>
+                        <a href="" class="link"></a>
+                    </div>
+                {% endfor %}
+            </div>
+            <div class="news-footer">
+                {% for i in icons %}
+                    <div class="foot-item">
+                        <div class="icon">
+                            <img src="{{ i.image.url }}" alt="" class="icon-icon">
+                        </div>
+                        <div class="right">
+                            <h4 class="title">{{ i.title }}</h4>
+                            <span class="link-btn">Далее</span>
+                        </div>
+                        <a href="{{ i.url }}" class="link"></a>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </section>
+
+    <section class="dark-box">
+        <div class="container">
+            {% for i in details %}
+            <div class="dark-head">
+                <h2 class="title">{{ i.title }}</h2>
+                <p class="desc">{{ i.description }}</p>
+            </div>
+            <div class="dark-grid">
+            {% endfor %}
+                {% for i in pictures %}
+                    <div class="dark-item" style="background-image: url('{{ i.image.url }}')">
+                        <h3 class="title">{{ i.title }}</h3>
+                        <p class="desc">{{ i.description }}</p>
+                        <a href="{{ i.url }}" class="link"></a>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </section>
+
+    <section class="advantage">
+        <div class="container">
+            <div class="advantage-grid">
+                {% for i in splitted %}
+                    <div class="advantage-item">
+                        <div class="info">
+                            <h3 class="title">{{ i.title }}</h3>
+                            <p class="desc">{{ i.text }}</p>
+                        </div>
+                        <div class="img-wrap">
+                            <img src="{{ i.image.url }}" alt="">
+                        </div>
+                    </div>
+                {% endfor %}
+                                <div class="advantage-item">
+                                    <div class="info">
+                                        {% for i in footer %}
+                                        <p class="desc">{{ i.title }}</p>
+                                    </div>
+                                    <div class="img-wrap">
+                                        <img src="{{ i.image.url }}">
+                                    </div>
+                                </div>
+                                <div class="advantage-item">
+                                    <div class="info">
+                                        <h3 class="title">iDent - это совершенство технологий</h3>
+                                        <p class="desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, optio.</p>
+                                    </div>
+                                    <div class="img-wrap">
+                                        <img src="../../static/img/png/reg-bg.png" alt="">
+                                    </div>
+                                        {% endfor %}
+                                </div>
+            </div>
+        </div>
+    </section>
+{% endblock %}
