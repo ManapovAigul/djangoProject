@@ -65,6 +65,12 @@ class Contact(models.Model):
 
 
 class News(models.Model):
+
+    # class Meta:
+    #     verbose_name = 'New'
+    #     verbose_name_plural = 'News'
+    #     ordering = ['-date']
+
     title = models.CharField(verbose_name='Новости', max_length=50)
     description = models.TextField(verbose_name='Описание', default='')
     image = models.ImageField(upload_to='Новости', verbose_name='Фото')
@@ -76,7 +82,7 @@ class News(models.Model):
 
 
 class Banner(models.Model):
-    title = models.CharField(verbose_name='Описание', max_length=255)
+    title = models.CharField(verbose_name='Заголовок', max_length=50)
     text = models.TextField(verbose_name='Текст', max_length=255)
     image = models.ImageField(verbose_name='Фото')
 
@@ -111,7 +117,7 @@ class Details(models.Model):
 
 class Pictures(models.Model):
     title = models.CharField(verbose_name='Заголовок', max_length=50)
-    description = models.TextField(verbose_name='Текст',default='')
+    description = models.TextField(verbose_name='Текст', default='')
     image = models.ImageField(verbose_name='Фото', default='')
 
     def __str__(self):

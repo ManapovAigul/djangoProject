@@ -5,40 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60e2eb45-08d8-419d-a254-2bc48b4774f3" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/iDent/migrations/0010_pictures_alter_icons_image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iDent/migrations/0011_link_remove_main_text_remove_pictures_text_and_more.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iDent/migrations/0012_splitted_alter_category_title_alter_company_title_and_more.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iDent/migrations/0013_footer_alter_splitted_image.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/1574605277_13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/1574605277_13_4BoHNmi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/1574605277_13_CJw9dY1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/428260.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/428260_fX7EBKZ.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/Og14_044_Page_1_Image_0001.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/apps.40340.13844868329507759.07372d86-a484-4a8f-a924-abf609635a3e_large.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/apps.40340.13844868329507759.07372d86-a484-4a8f-a924-abf609635a3e_large_xRQdRii.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/background-02-1920x800-642x300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/black-tel.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/flag.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/footer-map.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/footer-map_BB1QvcE.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/footer-tel.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/footer-tel_8gTTWiK.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/heart.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/hirurgia2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/hqdefault.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/multfilmy-shrek-zuby-ushi-ulybka-osel-764659.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/settings.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/sheikh-zayed-grand-mosque-abu-6890_p0VfHZ2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/stomatologicheskaya_ystanovka.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/terapevticheskaya-stomatologiya.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/Новости/51.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/Новости/dental-e1491920184799.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/панда_5YwhP4a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/панда_EzandIE.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/панда_YYSK3zJ.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/панда_hBB8rpn.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/панда_lK308k5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/maska-kino-filmy-the-mask-dzhim-kerri-671678.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/maxresdefault.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/маска_dSd0Ugc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/маска_fQ47xhY.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reg.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iDent/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/iDent/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iDent/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/iDent/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iDent/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/iDent/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../python_lesson7" beforeDir="false" afterPath="$PROJECT_DIR$/../python_lesson7" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -146,7 +123,9 @@
       <workItem from="1647356936915" duration="6258000" />
       <workItem from="1647538798013" duration="15392000" />
       <workItem from="1647692560205" duration="7965000" />
-      <workItem from="1647701008884" duration="14960000" />
+      <workItem from="1647701008884" duration="17923000" />
+      <workItem from="1647961265053" duration="3664000" />
+      <workItem from="1648126123011" duration="6058000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1647878098513</created>
